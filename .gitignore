@@ -6,7 +6,7 @@
 **/src
 **/include
 **/framework
-*.sublime-project
+*.sublime-
 *.sublime-workspace
 .DS_Store
 stino.settings
